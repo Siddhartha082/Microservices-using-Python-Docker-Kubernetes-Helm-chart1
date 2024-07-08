@@ -191,14 +191,6 @@
 
 
 
-![image](https://github.com/Siddhartha082/Microservices-using-Python-Docker-Kubernetes-Helm-chart1/assets/110781138/89cf49dd-2161-4e5d-8d2c-0dd5d1a31881)
-
-
-
-
-
-
-
 
 
 
